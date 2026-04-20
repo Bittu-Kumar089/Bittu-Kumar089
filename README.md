@@ -44,9 +44,11 @@
 
 ## 📈 GitHub Performance
 
-![Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark](https://github.com/Bittu-Kumar089))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight)
 
 ## 📚 Current Learning Path
 
