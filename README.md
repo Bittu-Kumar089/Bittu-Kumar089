@@ -44,11 +44,11 @@
 
 ## 📈 GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&theme=tokyo-night)
 
 ## 📚 Current Learning Path
 
@@ -76,7 +76,3 @@
 ---
 
 ⭐ *Focused on building strong fundamentals & real-world systems.*
-
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
