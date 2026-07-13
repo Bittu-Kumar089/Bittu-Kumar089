@@ -98,34 +98,49 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- ========================= GitHub Analytics ========================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&count_private=true"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight"
-    alt="GitHub Streak"
-    width="49%"
-  />
+  <a href="https://github.com/Bittu-Kumar089">
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  </a>
+
+  <a href="https://github.com/Bittu-Kumar089">
+    <img height="180em"
+         src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    width="40%"
-  />
+  <a href="https://github.com/Bittu-Kumar089">
+    <img height="170em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
-</div>
+<p align="center">
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bittu-Kumar089&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Bittu-Kumar089?style=for-the-badge&color=0e75b6" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Bittu-Kumar089/Bittu-Kumar089/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
+</p>
 
 ## 🎯 2026 Goals
 
