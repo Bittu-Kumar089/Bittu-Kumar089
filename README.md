@@ -17,7 +17,7 @@ I build AI-powered platforms, serverless systems on AWS, and data-driven dashboa
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA: 6.70), graduating 2027
+- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA: 6.74), graduating 2027
 - 🛠️ I like turning ideas into complete, polished, end-to-end products rather than isolated exercises
 - ☁️ Comfortable across the stack: frontend, serverless backend, cloud infra, and data analysis
 - 📊 Currently preparing for data analyst roles, with SQL, Excel, and dashboarding as focus areas
@@ -100,38 +100,27 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
 
 <!-- ========================= GitHub Analytics ========================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Bittu-Kumar089">
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/Bittu-Kumar089">
-    <img height="180em"
-         src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<img height="180em" src="https://github-readme-stats-nine-xi-39.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<p align="center">
-  <a href="https://github.com/Bittu-Kumar089">
-    <img height="170em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<img height="180em" src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&theme=tokyo-night&hide_border=true" />
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bittu-Kumar089&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/Bittu-Kumar089?style=for-the-badge&color=0e75b6" />
-</p>
+<img height="170em" src="https://github-readme-stats-nine-xi-39.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
----
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
