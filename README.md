@@ -17,7 +17,7 @@ I build AI-powered platforms, serverless systems on AWS, and data-driven dashboa
 
 ## 🧠 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA: 6.74), graduating 2027
+- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA: 6.70), graduating 2027
 - 🛠️ I like turning ideas into complete, polished, end-to-end products rather than isolated exercises
 - ☁️ Comfortable across the stack: frontend, serverless backend, cloud infra, and data analysis
 - 📊 Currently preparing for data analyst roles, with SQL, Excel, and dashboarding as focus areas
@@ -78,6 +78,7 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
 
 `React.js` · `AWS Lambda` · `DynamoDB` · `S3` · `Cognito` · `Gemini AI` · `Python` · `REST APIs`
 
+> 📌 Update the links above with your live repo/demo URLs once published.
 
 ---
 
@@ -92,7 +93,7 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
 ## 🏆 Achievements
 
 - ✅ ~100 problems solved on GeeksforGeeks & LeetCode
-- ⭐ 4-star rank in C++ — HackerRank
+- ⭐ 3-star rank in C++ — HackerRank
 - 🌙 Participated in the 24-Hour Code-A-Haunt Hackathon, LPU
 
 ---
@@ -101,27 +102,30 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&theme=tokyonight)
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&count_private=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight"
+    alt="GitHub Streak"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    width="40%"
+  />
+</p>
 
 </div>
-
----
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/bittu6204kk?theme=dark&font=Nunito&ext=heatmap)
-
-</div>
-
-The card above pulls live from your LeetCode profile — problems solved, difficulty breakdown, ranking, and a rolling **daily submission heatmap** so your solve streak stays visible right on your profile. It refreshes automatically each time your README is viewed, no manual updates needed.
-
-> ⚠️ Note: LeetCode's public stats API is community-maintained and occasionally rate-limited. If the card doesn't render, it's usually temporary — refresh the page, or swap the image URL for `https://leetcode-stats-six.vercel.app/?username=bittu6204kk&theme=dark` as a backup source.
-
----
 
 ## 🎯 2026 Goals
 
