@@ -1,126 +1,92 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+👋+I'm+Bittu+Kumar;Software+Developer;Data+Analyst+in+Training;Cloud+%26+DevOps+Enthusiast;AI-Powered+Platform+Builder;Building+Scalable+Applications" />
+</h1>
 
-# Hi, I'm Bittu Kumar 👋
+<h3 align="center">
+🚀 Software Developer | 📊 Data Analyst in Training | ☁️ Cloud & DevOps Enthusiast
+</h3>
 
-### Software Developer | Data Analyst in Training | Cloud & DevOps Enthusiast
-
-I build AI-powered platforms, serverless systems on AWS, and data-driven dashboards — and I'm actively sharpening my DSA and analytics skills for my next role.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bittu-kumar-984623255)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bittu6204kk@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bittu6204kk/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bittu-Kumar089)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bittu-Kumar089&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Bittu-Kumar089?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/Bittu-Kumar089?style=for-the-badge&color=00F7FF"/>
+</p>
 
 ---
 
-## 🧠 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=280&section=header&text=BITTU%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-- 🎓 B.Tech in Computer Science & Engineering, Lovely Professional University (CGPA: 6.74), graduating 2027
-- 🛠️ I like turning ideas into complete, polished, end-to-end products rather than isolated exercises
+---
+
+# 🌌 About Me
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```yaml
+Name: Bittu Kumar
+Role: Software Developer
+Education: B.Tech CSE, Lovely Professional University (CGPA 6.74, 2027)
+Specialization:
+  - AWS Cloud & Serverless Systems
+  - Data Analysis & Dashboards
+  - Full Stack Development
+  - AI-Powered Platforms
+
+Currently Learning:
+  - Advanced SQL
+  - Power BI & Excel Analytics
+  - System Design
+  - Data Structures & Algorithms
+```
+
+- 🛠️ I like turning ideas into complete, polished, end-to-end products
 - ☁️ Comfortable across the stack: frontend, serverless backend, cloud infra, and data analysis
-- 📊 Currently preparing for data analyst roles, with SQL, Excel, and dashboarding as focus areas
+- 📊 Currently preparing for data analyst roles — SQL, Excel, and dashboarding are focus areas
 - 🧩 ~100 problems solved across GeeksforGeeks and LeetCode, 3★ on HackerRank C++
+- ⚡ Always learning new technologies
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Data & Analytics**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🎧 PodPal — AI Podcast Recommendation Assistant
-*Aug 2025 – Sep 2025*
-An AI-driven podcast discovery platform with a conversational chat assistant, smart search, and detailed podcast pages. Personalized recommendations improved relevance by **88%** and cut content-discovery time by **65%**.
-
-`React.js` · `TypeScript` · `Tailwind CSS` · `Google Generative AI` · `Lucide Icons`
-
-### 🔎 Lost & Found — Smart Serverless Recovery System
-*Mar 2025 – Apr 2025*
-A serverless lost-and-found platform with **90%** image classification accuracy via Google Gemini AI, QR-code verification, and a fully serverless AWS backend that cut infra overhead by **80%**.
-
-`React.js` · `AWS Lambda` · `DynamoDB` · `S3` · `Cognito` · `Gemini AI` · `Python` · `REST APIs`
-
-> 📌 Update the links above with your live repo/demo URLs once published.
-
----
-
-## 📜 Certifications & Training
-
-- 🧮 Data Structures & Algorithms Training *(Jun – Jul 2025)*
-- 🔐 Privacy and Security in Social Media — NPTEL *(Oct 2025)*
-- 🌐 The Bits and Bytes of Computer Networking *(Sep 2025)*
-- ☁️ AWS Academy Graduate — Cloud Architecting *(Aug 2025)*
-- 🗃️ SQL (Basics) — HackerRank *(Jun 2026)*
-
-## 🏆 Achievements
-
-- ✅ ~100 problems solved on GeeksforGeeks & LeetCode
-- ⭐ 3-star rank in C++ — HackerRank
-- 🌙 Participated in the 24-Hour Code-A-Haunt Hackathon, LPU
-
----
-
-<!-- ========================= GitHub Analytics ========================= -->
-
-## 📊 GitHub Analytics
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-nine-xi-39.vercel.app/api?username=Bittu-Kumar089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Bittu-Kumar089&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170em" src="https://github-readme-stats-nine-xi-39.vercel.app/api/top-langs/?username=Bittu-Kumar089&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,c,cpp,python,mysql,mongodb,aws,docker,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
-## 📈 Contribution Graph
+---
+
+# ☁️ DevOps & Cloud
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash&theme=dark"/>
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | ⚙️ Tech Stack | 🔥 Description |
+|------------|---------------|----------------|
+| PodPal — AI Podcast Recommendation Assistant | React.js, TypeScript, Tailwind CSS, Google Generative AI | Conversational AI podcast discovery platform — improved recommendation relevance by 88% |
+| Lost & Found — Smart Serverless Recovery System | React.js, AWS Lambda, DynamoDB, S3, Cognito, Gemini AI | Serverless recovery platform with 90% image classification accuracy via Gemini AI |
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bittu-Kumar089&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
+
+</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -131,21 +97,135 @@ A serverless lost-and-found platform with **90%** image classification accuracy 
   />
 </p>
 
-## 🎯 2026 Goals
+---
 
-- 🔥 Cross 250+ DSA problems solved
-- 🔥 Land a Data Analyst role at a consulting-style firm
-- 🔥 Ship a fully deployed, production-grade backend project
-- 🔥 Deepen system design fundamentals
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bittu-Kumar089&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
-## 📫 Reach Me
+# 🧠 LeetCode Stats
 
-📧 **bittu6204kk@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/bittu-kumar-984623255) · 🧑‍💻 [LeetCode](https://leetcode.com/u/bittu6204kk/)
+<p align="center">
 
-<div align="center">
+<img src="https://leetcard.jacoblin.cool/bittu6204kk?theme=dark&font=Nunito&ext=heatmap"/>
 
-*Focused on building strong fundamentals & real-world systems.* ⭐
+</p>
 
-</div>
+---
+
+# ⚡ GitHub Metrics
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/Bittu-Kumar089?template=classic&config.timezone=Asia%2FKolkata"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Bittu-Kumar089">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bittu-kumar-984623255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bittu6204kk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/bittu6204kk/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 🔥 Current Focus
+
+```diff
++ Crossing 250+ DSA problems solved
++ Landing a Data Analyst role at a consulting-style firm
++ Shipping a fully deployed, production-grade backend project
++ Deepening system design fundamentals
++ Sharpening SQL, Excel & Power BI skills
+```
+
+---
+
+# 💡 Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚙️ Dev Environment
+
+```javascript
+const BittuKumar = {
+    operatingSystem: "Windows & Linux",
+    editor: "VS Code",
+    cloud: ["AWS"],
+    devOps: ["Docker", "Git", "GitHub Actions"],
+    backend: ["AWS Lambda", "REST APIs", "Python"],
+    frontend: ["React", "TypeScript", "Tailwind CSS"],
+    databases: ["MySQL", "DynamoDB", "MongoDB"],
+    analytics: ["NumPy", "Pandas", "Matplotlib", "SQL", "Excel", "Power BI"],
+    languages: ["C", "C++", "Python", "JavaScript"],
+    currentFocus: "Building data-driven, cloud-native systems 🚀"
+};
+```
+
+# 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00F7FF/Bittu-Kumar089" alt="Github chart"/>
+
+</p>
+
+---
+
+# 🔥 Profile Summary Cards
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bittu-Kumar089&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bittu-Kumar089&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bittu-Kumar089&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Support
+
+<p align="center">
+
+<a href="https://github.com/Bittu-Kumar089">
+<img src="https://img.shields.io/badge/Follow%20Me-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=180&section=footer"/>
